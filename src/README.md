@@ -1,4 +1,4 @@
-# Paradise Nursery Portfolio Project
+# e-plantShopping
 
 ## Project Overview
 An interactive React-based web application for a plant nursery shop. This project demonstrates state management using Redux Toolkit, responsive UI design, and dynamic shopping cart functionality.
